@@ -1,14 +1,13 @@
 # 微信跳一跳
 
-一个简单的微信跳一跳程序
-
+最简单的微信跳一跳程序
 
 主要使用简单的直线、圆检测算法
 ![](show.png)
 
 ## Prerequisites
 - 一部安卓手机
-- adb driver
+- adb
 - python3
 - opencv for python
 
