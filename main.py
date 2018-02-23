@@ -29,6 +29,7 @@ def format(x):
     x = 0
   return x
 
+
 def findOrigin(frame):
   gray = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
   # search small circle

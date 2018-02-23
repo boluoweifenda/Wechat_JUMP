@@ -11,6 +11,7 @@
 - python3
 - opencv for python
 
+
 ## How to start
 ### 安装ADB 驱动
 点此下载：http://dl.adbdriver.com/upload/adbdriver.zip
